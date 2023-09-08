@@ -1,5 +1,8 @@
+https://github.com/julekwinn/julekwinn/assets/126665165/3b740b90-82be-4ba5-8fc0-d35fabeb9738
 <h1 align="center">Hi 👋, I'm Juliusz Winnicki</h1>
 <h3 align="center">I am a third-year student in the field of Internet of Things Engineering at the Warsaw University of Technology, actively engaged in developing my skills in the field of technology and computer science.</h3>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julekwinn&label=Profile%20views&color=0e75b6&style=flat" alt="julekwinn" /> </p>
 
