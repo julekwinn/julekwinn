@@ -1,11 +1,6 @@
-
+![Black Technology LinkedIn Banner](https://github.com/julekwinn/julekwinn/assets/126665165/60505968-45da-4d50-a683-6eb58274cf23)
 <h1 align="center">Hi 👋, I'm Juliusz Winnicki</h1>
-
-https://github.com/julekwinn/julekwinn/assets/126665165/ce0cbd8e-d4f2-4cec-b739-b2ffe404afa9
-
-
 <h3 align="center">I am a third-year student in the field of Internet of Things Engineering at the Warsaw University of Technology, actively engaged in developing my skills in the field of technology and computer science.</h3>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julekwinn&label=Profile%20views&color=0e75b6&style=flat" alt="julekwinn" /> </p>
