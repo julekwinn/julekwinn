@@ -16,7 +16,7 @@
 <br/><br/>
 
 <!-- Social Links -->
-<a href="https://jwinnick.pythonanywhere.com/">
+<a href="https://juliuszwinnicki.pl/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=FF7139&labelColor=0d1117" />
 </a>
 <a href="https://www.linkedin.com/in/juliusz-winnicki/">
