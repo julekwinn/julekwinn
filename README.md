@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<!-- Social Links with Hover Effect -->
+<!-- Social Links -->
 <a href="https://jwinnick.pythonanywhere.com/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=FF7139&labelColor=0d1117" />
 </a>
@@ -25,13 +25,31 @@
 <a href="mailto:julek.winn@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
+<a href="https://github.com/julekwinn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
 
 </div>
 
 <br/>
 
-<!-- About Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="120" />
+
+I'm an **RPA Developer** and **Fullstack Developer** who transforms ideas into working solutions.
+
+I specialize in building modern web applications, advanced backend systems, and **business process automation** that genuinely save time and increase efficiency.
+
+As an **IoT Engineer**, I bridge the hardware and software worlds, creating intelligent systems that solve real-world problems.
+
+Currently pursuing my **Master's degree**, while expanding my skills through commercial projects as an RPA Developer at **AXPO Polska**.
+
+<br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Arsenal
 
@@ -41,27 +59,30 @@
 
 ### 🤖 Automation & Backend
   
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,postgres&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,cs,dotnet,postgres&theme=dark" /><br/><br/>
 <img src="https://img.shields.io/badge/UiPath-FA4F18?style=flat-square&logo=uipath&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white" />
+<img src="https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 
 </td>
 <td align="center" width="33%">
 
 ### 🔧 IoT & Hardware
   
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,cpp,linux&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,cpp,linux&theme=dark" /><br/><br/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 
 </td>
 <td align="center" width="33%">
 
 ### 🎨 Frontend & Design
   
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,figma&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind&theme=dark" /><br/><br/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 </td>
 </tr>
@@ -69,41 +90,116 @@
 
 <br/>
 
-<!-- Timeline Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Satellite" width="28" /> &nbsp;Journey Log
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> &nbsp;Journey Log
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶ NOW     │
-│    ├── 🎓 M.Sc. Internet of Things @ Warsaw University of Technology    │
-│    └── 💼 Junior RPA Developer @ AXPO Polska                            │
-│                                                                         │
-│  2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶ END     │
-│    └── 🎓 B.Eng. Internet of Things @ WUT                               │
-│                                                                         │
-│  2022 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━▶ 2023    │
-│    └── 🔬 Vice President of IoT Club @ WUT                              │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-<!-- Stats Section -->
 <div align="center">
-  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Juliusz-W&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Juliusz-W&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="18"/> <b>WHERE IT ALL BEGAN</b>
+
+</div>
+
+```
+                                    ╔══════════════════════════════════════╗
+     ┌──────────────────────────────╢  2008 - 2017  •  FOUNDATION YEARS    ╟──────────────────────────────┐
+     │                              ╚══════════════════════════════════════╝                              │
+     │                                                                                                    │
+     │        📚 Elementary School                                                                        │
+     │        └── Widuchowa School                                                                        │
+     │                                                                                                    │
+     └────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                         │
+                                                         ▼
+                                    ╔══════════════════════════════════════╗
+     ┌──────────────────────────────╢  2017 - 2021  •  TECHNICAL PATH      ╟──────────────────────────────┐
+     │                              ╚══════════════════════════════════════╝                              │
+     │                                                                                                    │
+     │        ⚡ Electronics Technician                     🔧 Electronics Intern (2019)                  │
+     │        └── ZSEE Szczecin                             └── Mentor                                    │
+     │                                                                                                    │
+     └────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                         │
+                                                         ▼
+                                    ╔══════════════════════════════════════╗
+     ┌──────────────────────────────╢  2021 - 2025  •  UNIVERSITY ERA      ╟──────────────────────────────┐
+     │                              ╚══════════════════════════════════════╝                              │
+     │                                                                                                    │
+     │        🎓 B.Eng. Internet of Things                  🔬 Vice President of IoT Club                 │
+     │        └── Warsaw University of Technology           └── WUT (2022-2023)                           │
+     │                                                                                                    │
+     │        🤖 RPA Intern (2024-2025)                                                                   │
+     │        └── AXPO Polska                                                                             │
+     │                                                                                                    │
+     └────────────────────────────────────────────────────────────────────────────────────────────────────┘
+                                                         │
+                                                         ▼
+                                    ╔══════════════════════════════════════╗
+     ┌──────────────────────────────╢  2025 - NOW   •  CURRENT CHAPTER     ╟──────────────────────────────┐
+     │                              ╚══════════════════════════════════════╝                              │
+     │                                                                                                    │
+     │        💼 Junior RPA Developer                       🎓 M.Sc. Internet of Things                   │
+     │        └── AXPO Polska                               └── Warsaw University of Technology           │
+     │                                                                                                    │
+     │                                    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄                                      │
+     │                                    █  🚀 THE JOURNEY CONTINUES  █                                  │
+     │                                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                      │
+     │                                                                                                    │
+     └────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+### 🏆 Highlights
+
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="50"/>
+<br/><b>B.Eng. IoT</b>
+<br/><sub>Class of 2025</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="50"/>
+<br/><b>AXPO Polska</b>
+<br/><sub>Junior RPA Dev</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50"/>
+<br/><b>M.Sc. IoT</b>
+<br/><sub>In Progress</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="50"/>
+<br/><b>IoT Club VP</b>
+<br/><sub>2022-2023</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juliusz-W&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=58a6ff&area=true&hide_border=true" width="100%"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="28" /> &nbsp;Let's Connect
+
+<div align="center">
+
+Have a project in mind or just want to chat about **automation**, **web development**, or **IoT**?
+
+<br/>
+
+<a href="mailto:julek.winn@gmail.com">
+  <img src="https://img.shields.io/badge/📧_julek.winn@gmail.com-EA4335?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<a href="https://www.linkedin.com/in/juliusz-winnicki/">
+  <img src="https://img.shields.io/badge/💼_Juliusz_Winnicki-0A66C2?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+<a href="https://github.com/julekwinn">
+  <img src="https://img.shields.io/badge/🐙_@julekwinn-181717?style=for-the-badge&labelColor=0d1117" />
+</a>
+
+</div>
 
 <br/>
 
@@ -116,20 +212,11 @@
 
 <br/>
 
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juliusz-W&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
+  <sub>© 2025 Juliusz Winnicki • Built with ❤️</sub>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=julekwinn&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
 </div>
