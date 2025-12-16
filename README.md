@@ -1,5 +1,3 @@
-![Black Technology LinkedIn Banner](https://github.com/julekwinn/julekwinn/assets/126665165/60505968-45da-4d50-a683-6eb58274cf23)
-
 <div align="center">
 
 # Hi, I'm Juliusz Winnicki 👋
