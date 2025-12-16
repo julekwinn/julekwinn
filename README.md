@@ -93,5 +93,4 @@ Currently pursuing my **Master's degree**, while expanding my skills through com
 <div align="center">
   <sub>© 2025 Juliusz Winnicki • Built with ❤️</sub>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=julekwinn&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
 </div>
