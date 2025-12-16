@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="https://github.com/julekwinn/julekwinn/assets/126665165/60505968-45da-4d50-a683-6eb58274cf23" width="100%" alt="Cover" />
-</div>
 
-<br />
+
 
 <div align="center">
   <h1 style="border-bottom: none;">JULIUSZ WINNICKI</h1>
