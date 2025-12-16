@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=JULIUSZ%20WINNICKI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RPA%20Developer%20%E2%80%A2%20IoT%20Engineer%20%E2%80%A2%20Full%20Stack&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=%F0%9F%94%8C+Bridging+Physical+%26+Digital+Worlds;%F0%9F%A4%96+Process+Automation+%7C+%F0%9F%8C%90+IoT+Networks+%7C+%E2%98%81%EF%B8%8F+Cloud+Solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=%F0%9F%94%8C+Bridging+Physical+%26+Digital+Worlds;%F0%9F%A4%96+Process+Automation+%7C+%F0%9F%8C%90+IoT+Networks+%7C+%E2%98%81%EF%B8%8F+Cloud" alt="Typing SVG" /></a>
 
 <br/>
 
